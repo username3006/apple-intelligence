@@ -1,0 +1,13 @@
+1. install nugget:
+https://github.com/leminlimez/Nugget/releases/tag/v2.2
+
+2. install Misaka.exe
+https://github.com/straight-tamago/misakaX/releases/tag/2.2
+
+3. run shortcut on iPhone
+https://www.icloud.com/shortcuts/e2077174cc424253a24164a1df674ac4
+
+4. send the PLIST file from your iphone to yourself via mail and download on your laptop
+
+5. follow this
+https://gist.github.com/f1shy-dev/23b4a78dc283edd30ae2b2e6429129b5
