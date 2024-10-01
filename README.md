@@ -1,9 +1,6 @@
 # apple-intelligence
 get apple intelligence on unsupported devices
 
-
-# the sneakyf1shy apple intelligence tutorial v2.0
-
 > [!WARNING]
 > This is **patched** as of iOS/iPadOS 18.1 DevBeta 5. If you want to follow this, **stay on Beta 4**.
 
